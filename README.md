@@ -2,10 +2,19 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Accordion
 
 ![alt text](https://github.com/indgoddess/widgets-react/blob/master/widget01.PNG?raw=true)
+
+## Search wikipedia
+
 ![alt text](https://github.com/indgoddess/widgets-react/blob/master/widget02.PNG?raw=true)
+
+## Dropdown
+
 ![alt text](https://github.com/indgoddess/widgets-react/blob/master/widget03.PNG?raw=true)
+
+## Translate
 ![alt text](https://github.com/indgoddess/widgets-react/blob/master/widget04.PNG?raw=true)
 
 ## Available Scripts
